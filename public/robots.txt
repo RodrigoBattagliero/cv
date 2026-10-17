@@ -31,4 +31,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://TU-DOMINIO/sitemap.xml
+Sitemap: https://rodrigo-battagliero.pages.dev/sitemap.xml

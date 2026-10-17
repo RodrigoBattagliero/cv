@@ -4,10 +4,10 @@
 
 ## Resume
 
-- [English version](https://TU-DOMINIO/): Profile, work experience, technologies and education
-- [Versión en español](https://TU-DOMINIO/es/): Same content in Spanish
-- [Resume in Markdown (English)](https://TU-DOMINIO/Rodrigo_Battagliero_resume.md): Plain-text version
-- [CV en Markdown (español)](https://TU-DOMINIO/es/CV_Rodrigo_Battagliero.md): Versión en texto plano
+- [English version](https://rodrigo-battagliero.pages.dev/): Profile, work experience, technologies and education
+- [Versión en español](https://rodrigo-battagliero.pages.dev/es/): Same content in Spanish
+- [Resume in Markdown (English)](https://rodrigo-battagliero.pages.dev/Rodrigo_Battagliero_resume.md): Plain-text version
+- [CV en Markdown (español)](https://rodrigo-battagliero.pages.dev/es/CV_Rodrigo_Battagliero.md): Versión en texto plano
 
 ## Work experience (summary)
 
