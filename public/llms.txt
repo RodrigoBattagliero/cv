@@ -1,0 +1,24 @@
+# Rodrigo Battagliero
+
+> Software Developer & Technical Lead with over 10 years of experience building reliable web applications. My goal is to drive real business value for companies through solid software engineering, technical ownership, and clear delivery strategies.
+
+## Resume
+
+- [English version](https://TU-DOMINIO/): Profile, work experience, technologies and education
+- [Versión en español](https://TU-DOMINIO/es/): Same content in Spanish
+- [Resume in Markdown (English)](https://TU-DOMINIO/Rodrigo_Battagliero_resume.md): Plain-text version
+- [CV en Markdown (español)](https://TU-DOMINIO/es/CV_Rodrigo_Battagliero.md): Versión en texto plano
+
+## Work experience (summary)
+
+- Senior Software Developer, AvantPage, Jul 2025 — Apr 2026
+- Technical Lead / Senior Full-Stack Developer, Endava, Nov 2021 — Mar 2024
+- Technical Lead / Senior Backend Engineer, W3 IT Solutions, Jun 2019 — Nov 2021
+- Web Developer, Magnetico, Feb 2017 — Jun 2019
+- Web Developer, Casa de Gobierno, Aug 2015 — Mar 2019
+- Web Developer, Wabes, Mar 2013 — Jun 2015
+
+## Contact
+
+- [LinkedIn](https://linkedin.com/in/rodrigobattagliero)
+- Email: rbattagliero@gmail.com
