@@ -2,7 +2,7 @@
 // Usa Workers AI con el binding "AI" (configurado en wrangler.jsonc): no hace falta ninguna clave.
 
 // Verificá que el modelo siga disponible con: npx wrangler ai models list
-const MODEL = "@cf/meta/llama-3.1-8b-instruct";
+const MODEL = "@cf/meta/llama-3.1-8b-instruct-fp8";
 
 const CV = `
 Name: Rodrigo Battagliero. Location: La Rioja, Argentina. Email: rbattagliero@gmail.com. LinkedIn: linkedin.com/in/rodrigobattagliero
