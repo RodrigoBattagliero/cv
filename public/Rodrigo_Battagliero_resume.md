@@ -3,14 +3,15 @@
 La Rioja, Argentina  
 [rbattagliero@gmail.com](mailto:rbattagliero@gmail.com) · [linkedin.com/in/rodrigobattagliero](https://linkedin.com/in/rodrigobattagliero)
 
-Software Developer & Technical Lead with over 10 years of experience building reliable web applications. My goal is to drive real business value for companies through solid software engineering, technical ownership, and clear delivery strategies.
+Software Developer with over 10 years of experience building reliable web applications. I like to drive real business value for companies through solid software engineering, technical ownership, and clear delivery strategies.
 
 While my main strength lies in backend architecture, I also bring solid frontend experience to build complete, end-to-end solutions. I take ownership throughout the entire project lifecycle—from analyzing initial ideas and defining technical requirements to writing clean code, troubleshooting root causes in production, and maintaining stable systems.
 
 ## Experience
 
 ### Senior Software Developer — [AvantPage](https://www.avantpage.com)
-*Jul 2025 — Apr 2026 · Remote*
+
+_Jul 2025 — Apr 2026 · Remote_
 
 _Enterprise translation and document management portal featuring an admin panel, customer portal, quota/invoice generation, and automated document processing._
 
@@ -22,7 +23,8 @@ _Enterprise translation and document management portal featuring an admin panel,
 **Technologies:** PHP, Symfony, Doctrine ORM, Symfony Messenger, Symfony Schedule, Symfony Command, PostgREST, Docker, PHPUnit, Xdebug, PHPStan, GitHub Actions, Copilot, Claude Code
 
 ### Technical Lead / Senior Full-Stack Developer — [Endava](https://www.endava.com)
-*Nov 2021 — Mar 2024 · Remote*
+
+_Nov 2021 — Mar 2024 · Remote_
 
 _Cloud-based platform for creating surveys, collecting user feedback, and automating reporting._
 
@@ -34,7 +36,8 @@ _Cloud-based platform for creating surveys, collecting user feedback, and automa
 **Technologies:** PHP, Zend Framework, HTML, CSS, JavaScript, MySQL, AWS SDK, Redis, PHPStan, Xdebug
 
 ### Technical Lead / Senior Backend Engineer — [W3 IT Solutions](https://www.w3itsolutions.net)
-*Jun 2019 — Nov 2021 · Remote*
+
+_Jun 2019 — Nov 2021 · Remote_
 
 _Package shipping and logistics platform connected to multiple e-commerce ecosystems and logistics providers._
 
@@ -47,7 +50,8 @@ _Package shipping and logistics platform connected to multiple e-commerce ecosys
 **Technologies:** PHP, Symfony, Symfony Security, Symfony DI, Symfony Command, Node.js, Express, NestJS, TypeScript, React, Docker, RabbitMQ, Redis, MySQL, Doctrine ORM, PHPUnit, Jenkins, Jira
 
 ### Web Developer — [Magnetico](https://www.magnetico.dev)
-*Feb 2017 — Jun 2019 · Remote*
+
+_Feb 2017 — Jun 2019 · Remote_
 
 _Crowdfunding platform with project management workflows and online payment integrations._
 
@@ -57,7 +61,8 @@ _Crowdfunding platform with project management workflows and online payment inte
 **Technologies:** PHP, Symfony, Twig, HTML, CSS, JavaScript, jQuery, Bootstrap, MySQL, Elasticsearch, RedLink API, Git, Redmine
 
 ### Web Developer — Casa de Gobierno
-*Aug 2015 — Mar 2019*
+
+_Aug 2015 — Mar 2019_
 
 _Municipal web applications, interactive maps, and survey generation systems._
 
@@ -68,7 +73,8 @@ _Municipal web applications, interactive maps, and survey generation systems._
 **Technologies:** PHP, Symfony, MySQL, JavaScript, jQuery, Google Maps API, HTML, CSS, Bootstrap, Twig, Git, DigitalOcean
 
 ### Web Developer — Wabes
-*Mar 2013 — Jun 2015*
+
+_Mar 2013 — Jun 2015_
 
 _Digital agency providing custom web solutions and web hosting management._
 

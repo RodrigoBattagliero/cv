@@ -3,14 +3,15 @@
 La Rioja, Argentina  
 [rbattagliero@gmail.com](mailto:rbattagliero@gmail.com) · [linkedin.com/in/rodrigobattagliero](https://linkedin.com/in/rodrigobattagliero)
 
-Desarrollador de Software y Technical Lead con más de 10 años de experiencia construyendo aplicaciones web confiables. Mi objetivo es generar valor real de negocio para las empresas a través de una ingeniería de software sólida, la responsabilidad técnica y estrategias de entrega claras.
+Desarrollador de Software con más de 10 años de experiencia construyendo aplicaciones web confiables. Mi objetivo es generar valor real de negocio para las empresas a través de una ingeniería de software sólida, la responsabilidad técnica y estrategias de entrega claras.
 
 Aunque mi mayor fortaleza está en la arquitectura backend, también aporto una sólida experiencia en frontend para construir soluciones completas, de punta a punta. Me hago cargo de todo el ciclo de vida del proyecto: desde analizar las ideas iniciales y definir los requisitos técnicos hasta escribir código limpio, investigar las causas raíz de los problemas en producción y mantener sistemas estables.
 
 ## Experiencia
 
 ### Desarrollador de Software Senior — [AvantPage](https://www.avantpage.com)
-*Jul 2025 — Abr 2026 · Remoto*
+
+_Jul 2025 — Abr 2026 · Remoto_
 
 _Portal empresarial de gestión de traducciones y documentos, con panel de administración, portal de clientes, generación de cotizaciones y facturas, y procesamiento automatizado de documentos._
 
@@ -22,7 +23,8 @@ _Portal empresarial de gestión de traducciones y documentos, con panel de admin
 **Tecnologías:** PHP, Symfony, Doctrine ORM, Symfony Messenger, Symfony Schedule, Symfony Command, PostgREST, Docker, PHPUnit, Xdebug, PHPStan, GitHub Actions, Copilot, Claude Code
 
 ### Technical Lead / Desarrollador Full Stack Senior — [Endava](https://www.endava.com)
-*Nov 2021 — Mar 2024 · Remoto*
+
+_Nov 2021 — Mar 2024 · Remoto_
 
 _Plataforma en la nube para crear encuestas, recopilar comentarios de los usuarios y automatizar reportes._
 
@@ -34,7 +36,8 @@ _Plataforma en la nube para crear encuestas, recopilar comentarios de los usuari
 **Tecnologías:** PHP, Zend Framework, HTML, CSS, JavaScript, MySQL, AWS SDK, Redis, PHPStan, Xdebug
 
 ### Technical Lead / Ingeniero Backend Senior — [W3 IT Solutions](https://www.w3itsolutions.net)
-*Jun 2019 — Nov 2021 · Remoto*
+
+_Jun 2019 — Nov 2021 · Remoto_
 
 _Plataforma de envío de paquetes y logística conectada a múltiples ecosistemas de e-commerce y proveedores logísticos._
 
@@ -47,7 +50,8 @@ _Plataforma de envío de paquetes y logística conectada a múltiples ecosistema
 **Tecnologías:** PHP, Symfony, Symfony Security, Symfony DI, Symfony Command, Node.js, Express, NestJS, TypeScript, React, Docker, RabbitMQ, Redis, MySQL, Doctrine ORM, PHPUnit, Jenkins, Jira
 
 ### Desarrollador Web — [Magnetico](https://www.magnetico.dev)
-*Feb 2017 — Jun 2019 · Remoto*
+
+_Feb 2017 — Jun 2019 · Remoto_
 
 _Plataforma de crowdfunding con flujos de gestión de proyectos e integraciones de pagos en línea._
 
@@ -57,7 +61,8 @@ _Plataforma de crowdfunding con flujos de gestión de proyectos e integraciones 
 **Tecnologías:** PHP, Symfony, Twig, HTML, CSS, JavaScript, jQuery, Bootstrap, MySQL, Elasticsearch, RedLink API, Git, Redmine
 
 ### Desarrollador Web — Casa de Gobierno
-*Ago 2015 — Mar 2019*
+
+_Ago 2015 — Mar 2019_
 
 _Aplicaciones web municipales, mapas interactivos y sistemas de generación de encuestas._
 
@@ -68,7 +73,8 @@ _Aplicaciones web municipales, mapas interactivos y sistemas de generación de e
 **Tecnologías:** PHP, Symfony, MySQL, JavaScript, jQuery, Google Maps API, HTML, CSS, Bootstrap, Twig, Git, DigitalOcean
 
 ### Desarrollador Web — Wabes
-*Mar 2013 — Jun 2015*
+
+_Mar 2013 — Jun 2015_
 
 _Agencia digital que ofrecía soluciones web a medida y gestión de hosting web._
 
