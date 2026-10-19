@@ -20,7 +20,7 @@ _Enterprise translation and document management portal featuring an admin panel,
 - **Development Acceleration:** Integrated AI coding assistants (Copilot and Claude Code) into daily workflows to speed up code analysis, planning, documentation, commits, code reviews, and implementation.
 - **Security & Feature Development:** Added Two-Factor Authentication (2FA) via Twilio SMS and maintained background services and reporting workflows.
 
-**Technologies:** PHP, Symfony, Doctrine ORM, Symfony Messenger, Symfony Schedule, Symfony Command, PostgREST, Docker, PHPUnit, Xdebug, PHPStan, GitHub Actions, Copilot, Claude Code
+**Technologies:** PHP, Symfony, Doctrine ORM, Symfony Messenger, Symfony Schedule, Symfony Command, PostgREST, Docker, PHPUnit, Xdebug, PHPStan, Git, GitHub Actions, Copilot, Claude Code
 
 ### Technical Lead / Senior Full-Stack Developer — [Endava](https://www.endava.com)
 
@@ -33,7 +33,7 @@ _Cloud-based platform for creating surveys, collecting user feedback, and automa
 - **Legacy System Support:** Analyzed and resolved critical bugs in a legacy system, improving performance and keeping daily operations running smoothly.
 - **Feature Development:** Built a scheduled reporting system to send periodic reports to users, enhanced WYSIWYG editor features, and performed ongoing maintenance.
 
-**Technologies:** PHP, Zend Framework, HTML, CSS, JavaScript, MySQL, AWS SDK, Redis, PHPStan, Xdebug
+**Technologies:** PHP, Zend Framework, HTML, CSS, JavaScript, MySQL, AWS SDK, Redis, PHPStan, Xdebug, Git
 
 ### Technical Lead / Senior Backend Engineer — [W3 IT Solutions](https://www.w3itsolutions.net)
 
@@ -47,7 +47,7 @@ _Package shipping and logistics platform connected to multiple e-commerce ecosys
 - **Technical Planning & Requirements:** Translated real-world business challenges into technical requirements and step-by-step development plans in collaboration with UX, QA, Business Analysts, POs, and Infrastructure teams.
 - **Team Leadership & Microservices:** Led a team of 4–5 developers on a main PHP monolith connected to Express and NestJS microservices, while contributing to React frontend tasks when needed.
 
-**Technologies:** PHP, Symfony, Symfony Security, Symfony DI, Symfony Command, Node.js, Express, NestJS, TypeScript, React, Docker, RabbitMQ, Redis, MySQL, Doctrine ORM, PHPUnit, Jenkins, Jira
+**Technologies:** PHP, Symfony, Symfony Security, Symfony DI, Symfony Command, Node.js, Express, NestJS, TypeScript, React, Docker, RabbitMQ, Redis, MySQL, Doctrine ORM, PHPUnit, Jenkins, Jira, Git
 
 ### Web Developer — [Magnetico](https://www.magnetico.dev)
 

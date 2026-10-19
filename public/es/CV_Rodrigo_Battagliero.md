@@ -20,7 +20,7 @@ _Portal empresarial de gestión de traducciones y documentos, con panel de admin
 - **Aceleración del desarrollo:** Incorporé asistentes de código con IA (Copilot y Claude Code) en el trabajo diario para acelerar el análisis de código, la planificación, la documentación, los commits, las revisiones de código y la implementación.
 - **Seguridad y desarrollo de funcionalidades:** Agregué autenticación en dos pasos (2FA) mediante SMS con Twilio y mantuve servicios en segundo plano y flujos de reportes.
 
-**Tecnologías:** PHP, Symfony, Doctrine ORM, Symfony Messenger, Symfony Schedule, Symfony Command, PostgREST, Docker, PHPUnit, Xdebug, PHPStan, GitHub Actions, Copilot, Claude Code
+**Tecnologías:** PHP, Symfony, Doctrine ORM, Symfony Messenger, Symfony Schedule, Symfony Command, PostgREST, Docker, PHPUnit, Xdebug, PHPStan, Git, GitHub Actions, Copilot, Claude Code
 
 ### Technical Lead / Desarrollador Full Stack Senior — [Endava](https://www.endava.com)
 
@@ -33,7 +33,7 @@ _Plataforma en la nube para crear encuestas, recopilar comentarios de los usuari
 - **Soporte de sistema legado:** Analicé y resolví errores críticos en un sistema legado, mejorando su rendimiento y manteniendo las operaciones diarias funcionando sin interrupciones.
 - **Desarrollo de funcionalidades:** Construí un sistema de reportes programados para enviar reportes periódicos a los usuarios, mejoré funcionalidades del editor WYSIWYG y realicé tareas de mantenimiento continuo.
 
-**Tecnologías:** PHP, Zend Framework, HTML, CSS, JavaScript, MySQL, AWS SDK, Redis, PHPStan, Xdebug
+**Tecnologías:** PHP, Zend Framework, HTML, CSS, JavaScript, MySQL, AWS SDK, Redis, PHPStan, Xdebug, Git
 
 ### Technical Lead / Ingeniero Backend Senior — [W3 IT Solutions](https://www.w3itsolutions.net)
 
@@ -47,7 +47,7 @@ _Plataforma de envío de paquetes y logística conectada a múltiples ecosistema
 - **Planificación técnica y requisitos:** Traduje desafíos reales del negocio en requisitos técnicos y planes de desarrollo paso a paso, en colaboración con UX, QA, Analistas de Negocio, POs y equipos de Infraestructura.
 - **Liderazgo de equipo y microservicios:** Lideré un equipo de 4 a 5 desarrolladores sobre un monolito principal en PHP conectado a microservicios en Express y NestJS, y colaboré en tareas de frontend en React cuando hizo falta.
 
-**Tecnologías:** PHP, Symfony, Symfony Security, Symfony DI, Symfony Command, Node.js, Express, NestJS, TypeScript, React, Docker, RabbitMQ, Redis, MySQL, Doctrine ORM, PHPUnit, Jenkins, Jira
+**Tecnologías:** PHP, Symfony, Symfony Security, Symfony DI, Symfony Command, Node.js, Express, NestJS, TypeScript, React, Docker, RabbitMQ, Redis, MySQL, Doctrine ORM, PHPUnit, Jenkins, Jira, Git
 
 ### Desarrollador Web — [Magnetico](https://www.magnetico.dev)
 
