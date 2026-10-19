@@ -5,7 +5,7 @@ La Rioja, Argentina
 
 Software Developer with over 10 years of experience building reliable web applications. I like to drive real business value for companies through solid software engineering, technical ownership, and clear delivery strategies.
 
-While my main strength lies in backend architecture, I also bring solid frontend experience to build complete, end-to-end solutions. I take ownership throughout the entire project lifecycle—from analyzing initial ideas and defining technical requirements to writing clean code, troubleshooting root causes in production, and maintaining stable systems.
+While my main strength lies in backend architecture, I also bring solid frontend experience to build complete, end-to-end solutions. I take ownership throughout the entire project lifecycle, from analyzing initial ideas and defining technical requirements to writing clean code, troubleshooting root causes in production, and maintaining stable systems.
 
 ## Experience
 
