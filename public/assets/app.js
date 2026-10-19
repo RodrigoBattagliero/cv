@@ -159,9 +159,15 @@
 
   /* PDF / impresión: siempre en modo reclutador; al terminar se restaura lo que había */
   let printState = null;
+  let printTitle = null;
   const enterPrint = () => {
     if (printState) return;
     printState = { view: recruiter, filter: active };
+    printTitle = document.title;
+    document.title =
+      document.documentElement.lang === "es"
+        ? "CV_Rodrigo_Battagliero_es"
+        : "Rodrigo_Battagliero_resume_en";
     if (active) setFilter(null);
     applyView(true);
   };
@@ -169,6 +175,10 @@
     if (!printState) return;
     const prev = printState;
     printState = null;
+    if (printTitle !== null) {
+      document.title = printTitle;
+      printTitle = null;
+    }
     applyView(prev.view);
     if (prev.filter) setFilter(prev.filter);
   };
