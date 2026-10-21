@@ -37,7 +37,7 @@ h1 em{display:block;font-style:normal;color:var(--acc);font-size:.62em;line-heig
 
 /* Contenido */
 main{padding:56px clamp(24px,5vw,64px) 40px;min-width:0}
-.sec{padding:56px 0;border-top:1px solid var(--line)}.sec:first-child{border-top:0;padding-top:0}
+.sec{padding:56px 0;border-top:1px solid var(--line)}.sec:first-of-type{border-top:0;padding-top:0}
 .sh{margin-bottom:32px}.sh .mono{color:var(--acc);margin:0 0 12px}
 h2.t{font:800 clamp(1.9rem,3.5vw,2.7rem)/1.05 var(--sans);letter-spacing:-.035em;margin:0}
 h2.t em{display:block;font-style:normal;color:var(--acc)}
@@ -111,7 +111,7 @@ footer{color:var(--muted);font-size:.85rem;padding-top:24px;border-top:1px solid
 [data-view="recruiter"] main .mono{font:inherit;letter-spacing:0;text-transform:none}
 [data-view="recruiter"] main .rail,[data-view="recruiter"] main .ic,[data-view="recruiter"] main .sh .mono,[data-view="recruiter"] main .filterbar{display:none!important}
 [data-view="recruiter"] main .sec{padding:12px 0;border-top:1px solid var(--line)}
-[data-view="recruiter"] main .sec:first-child{border-top:0;padding-top:0}
+[data-view="recruiter"] main .sec:first-of-type{border-top:0;padding-top:0}
 [data-view="recruiter"] main .sh{margin:0 0 8px}
 [data-view="recruiter"] main h2.t{font:700 .95rem var(--sans);letter-spacing:.04em;text-transform:uppercase;color:var(--acc);background:#F1F7E4;border-left:4px solid var(--acc);padding:4px 10px}
 [data-view="recruiter"] main h2.t em{display:inline;color:inherit}
